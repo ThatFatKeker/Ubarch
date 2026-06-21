@@ -23,7 +23,7 @@ Transform your Arch Linux system into a clean, modern Ubuntu-styled desktop expe
 
 1. Open your terminal and clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/ThatFatKeker/Ubarch
    cd Ubarch
    ```
 2. Make the script executable:
