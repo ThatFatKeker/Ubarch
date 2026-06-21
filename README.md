@@ -19,6 +19,8 @@ Transform your Arch Linux system into a clean, modern Ubuntu-styled desktop expe
 
 ## Quick Start
 
+> ⚠️ **Warning:** This script targets **Arch Linux**. Run it on a fresh installation or an environment where you want to deploy Gnome + Ubuntu layout
+
 1. Open your terminal and clone the repository:
    ```bash
    git clone https://github.com
